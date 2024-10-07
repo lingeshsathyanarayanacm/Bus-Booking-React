@@ -1,0 +1,97 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.custom-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.custom-card {
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+  width: 400px;
+}
+
+.custom-heading {
+  margin-bottom: 20px;
+  font-size: 2rem;
+  color: #333;
+  text-align: center;
+}
+
+.custom-form-group {
+  margin-bottom: 20px;
+}
+
+.custom-button {
+  width: 100%;
+  padding: 12px;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.custom-button:hover {
+  background-color: #0056b3;
+}
+
+.custom-forgot-password-link {
+  text-align: right;
+  margin-top: 10px;
+  color: #007bff;
+  cursor: pointer;
+}
+
+.custom-forgot-password-link a {
+  text-decoration: none;
+}
+
+.custom-social-login {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.custom-social-login button {
+  flex: 1;
+}
+
+.custom-no-account {
+  text-align: center;
+  margin-top: 20px;
+  color: #333;
+}
+
+.custom-no-account a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.custom-no-account a:hover {
+  text-decoration: underline;
+}
+
+
+
+@media (max-width: 768px) {
+  .custom-card {
+    width: 90%;
+  }
+}
+video
+{
+  margin-right: 170px;
+}

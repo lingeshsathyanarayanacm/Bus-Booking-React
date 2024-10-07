@@ -1,0 +1,45 @@
+.payment-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .payment-status {
+    text-align: center;
+    padding: 30px;
+    border: 2px solid #ddd;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    transition: border-color 0.3s ease-in-out, background-color 0.3s ease-in-out;
+  }
+  
+  .payment-status.success {
+    border-color: #4caf50; /* Green border for success */
+    background-color: #e8f5e9; /* Light green background for success */
+  }
+  
+  .success-icon {
+    color: #4caf50; /* Green color for success */
+    font-size: 3em;
+    margin-bottom: 15px;
+  }
+  
+  button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: #2196f3;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  

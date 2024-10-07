@@ -1,0 +1,6 @@
+/* App.css */
+.nav-link:hover {
+    background-color: #007bff;
+    color :white /* Change the color to your desired hover color */
+  }
+  

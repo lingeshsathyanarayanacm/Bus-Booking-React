@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "username": "madankishore",
+      "email": "ZDJfaskjdf@gamil.com",
+      "dob": "2024-01-10",
+      "phoneNumber": "2345642234",
+      "password": "madan10",
+      "id": 1
+    },
+    {
+      "username": "madan",
+      "email": "madan12@gmail.com",
+      "dob": "2024-01-16",
+      "phoneNumber": "2345567213",
+      "password": "madan10",
+      "id": 2
+    },
+    {
+      "username": "MOTALPAIYAN",
+      "email": "2345562@gmail.com",
+      "dob": "2024-01-11",
+      "phoneNumber": "4324098329",
+      "password": "1234567",
+      "id": 3
+    },
+    {
+      "username": "madankishore",
+      "email": "ZDJfaskjdf@gamil.com",
+      "dob": "2024-01-05",
+      "phoneNumber": "2345642234",
+      "password": "232322",
+      "id": 4
+    },
+    {
+      "username": "madan",
+      "email": "madan12@gmail.com",
+      "dob": "2024-01-03",
+      "phoneNumber": "2345567213",
+      "password": "madan2",
+      "id": 5
+    },
+    {
+      "username": "madan",
+      "email": "madan232@gamil.com",
+      "dob": "2024-01-08",
+      "phoneNumber": "2223422233",
+      "password": "323232",
+      "id": 6
+    },
+    {
+      "username": "madan",
+      "email": "madan12@gmail.com",
+      "dob": "2024-01-03",
+      "phoneNumber": "1234567891",
+      "password": "madan1",
+      "id": 7
+    },
+    {
+      "username": "ma",
+      "email": "nbmbmbm@gmail.com",
+      "dob": "2024-01-09",
+      "phoneNumber": "5656778997",
+      "password": "madan32",
+      "id": 8
+    }
+  ]
+}

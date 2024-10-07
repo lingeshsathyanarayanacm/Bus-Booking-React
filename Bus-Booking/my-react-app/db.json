@@ -1,0 +1,292 @@
+{
+  "users": [
+    {
+      "username": "madankishore",
+      "email": "ZDJfaskjdf@gamil.com",
+      "dob": "2024-01-10",
+      "phoneNumber": "2345642234",
+      "password": "madan10",
+      "id": 1
+    },
+    {
+      "username": "madan",
+      "email": "madan12@gmail.com",
+      "dob": "2024-01-16",
+      "phoneNumber": "2345567213",
+      "password": "madan10",
+      "id": 2
+    },
+    {
+      "username": "MOTALPAIYAN",
+      "email": "2345562@gmail.com",
+      "dob": "2024-01-11",
+      "phoneNumber": "4324098329",
+      "password": "1234567",
+      "id": 3
+    },
+    {
+      "username": "madankishore",
+      "email": "ZDJfaskjdf@gamil.com",
+      "dob": "2024-01-05",
+      "phoneNumber": "2345642234",
+      "password": "232322",
+      "id": 4
+    },
+    {
+      "username": "madan",
+      "email": "madan12@gmail.com",
+      "dob": "2024-01-03",
+      "phoneNumber": "2345567213",
+      "password": "madan2",
+      "id": 5
+    },
+    {
+      "username": "madan",
+      "email": "madan232@gamil.com",
+      "dob": "2024-01-08",
+      "phoneNumber": "2223422233",
+      "password": "323232",
+      "id": 6
+    },
+    {
+      "username": "madan",
+      "email": "madan12@gmail.com",
+      "dob": "2024-01-03",
+      "phoneNumber": "1234567891",
+      "password": "madan1",
+      "id": 7
+    },
+    {
+      "username": "ma",
+      "email": "nbmbmbm@gmail.com",
+      "dob": "2024-01-09",
+      "phoneNumber": "5656778997",
+      "password": "madan32",
+      "id": 8
+    },
+    {
+      "username": "iuugiugigi",
+      "email": "lingeshsathyanarayana1@gmail.com",
+      "dob": "2024-01-05",
+      "password": "234",
+      "phone": "159197",
+      "id": 9
+    },
+    {
+      "username": "iuugiugigi",
+      "email": "lingeshsathyanarayana1@gmail.com",
+      "dob": "2024-01-05",
+      "password": "234",
+      "phone": "159197",
+      "id": 10
+    },
+    {
+      "username": "iuugiugigi",
+      "email": "lingeshsathyanarayana1@gmail.com",
+      "dob": "2024-01-05",
+      "password": "234",
+      "phone": "159197",
+      "id": 11
+    },
+    {
+      "username": "iuugiugigi",
+      "email": "lingeshsathyanarayana1@gmail.com",
+      "dob": "2024-01-05",
+      "password": "234",
+      "phone": "159197",
+      "id": 12
+    },
+    {
+      "username": "lingesh",
+      "email": "madankishore",
+      "dob": "2024-01-10",
+      "password": "madan10",
+      "phone": "159197",
+      "id": 13
+    },
+    {
+      "username": "lingesh",
+      "email": "madankishore",
+      "dob": "2024-01-10",
+      "password": "madan10",
+      "phone": "159197",
+      "id": 14
+    },
+    {
+      "username": "lingesh",
+      "email": "madankishore",
+      "dob": "2024-01-10",
+      "password": "madan10",
+      "phone": "159197",
+      "id": 15
+    },
+    {
+      "username": "lingesh",
+      "email": "madankishore",
+      "dob": "2024-01-10",
+      "password": "madan10",
+      "phone": "159197",
+      "id": 16
+    },
+    {
+      "username": "lingesh",
+      "email": "madankishore",
+      "dob": "2024-01-10",
+      "password": "madan10",
+      "phone": "159197",
+      "id": 17
+    },
+    {
+      "username": "lingesh",
+      "email": "madankishore",
+      "dob": "2024-01-10",
+      "password": "madan10",
+      "phone": "159197",
+      "id": 18
+    },
+    {
+      "username": "lingesh",
+      "email": "madankishore",
+      "dob": "2024-01-10",
+      "password": "madan10",
+      "phone": "159197",
+      "id": 19
+    },
+    {
+      "username": "lingesh",
+      "email": "madankishore",
+      "dob": "2024-01-10",
+      "password": "madan10",
+      "phone": "159197",
+      "id": 20
+    },
+    {
+      "username": "lingesh",
+      "email": "madankishore",
+      "dob": "2024-01-10",
+      "password": "madan10",
+      "phone": "159197",
+      "id": 21
+    },
+    {
+      "username": "lingesh",
+      "email": "madankishore",
+      "dob": "2024-01-10",
+      "password": "madan10",
+      "phone": "159197",
+      "id": 22
+    },
+    {
+      "username": "lingesh",
+      "email": "madankishore",
+      "dob": "2024-01-10",
+      "password": "madan10",
+      "phone": "159197",
+      "id": 23
+    },
+    {
+      "username": "lingesh",
+      "email": "madankishore",
+      "dob": "2024-01-10",
+      "password": "madan10",
+      "phone": "159197",
+      "id": 24
+    },
+    {
+      "username": "lingesh",
+      "email": "madankishore",
+      "dob": "2024-01-10",
+      "password": "madan10",
+      "phone": "159197",
+      "id": 25
+    },
+    {
+      "firstName": "Lingesh",
+      "lastName": "narayana.C.M",
+      "username": "lingesh",
+      "email": "madankishore@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "gender": "male",
+      "id": 26
+    },
+    {
+      "firstName": "dfdf",
+      "lastName": "fdfdf",
+      "username": "fdfdf",
+      "email": "lingeshsathyanarayana1@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "gender": "male",
+      "id": 27
+    },
+    {
+      "firstName": "Lingesh",
+      "lastName": "narayana.C.M",
+      "username": "bvbv",
+      "email": "madankishore",
+      "password": "123",
+      "confirmPassword": "123",
+      "gender": "",
+      "id": 28
+    },
+    {
+      "firstName": "dsfs",
+      "lastName": "dfsf",
+      "username": "ddd",
+      "email": "ddd",
+      "password": "ddd",
+      "confirmPassword": "ddd",
+      "gender": "",
+      "id": 29
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "username": "",
+      "email": "",
+      "password": "",
+      "confirmPassword": "",
+      "gender": "",
+      "id": 30
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "username": "",
+      "email": "",
+      "password": "",
+      "confirmPassword": "",
+      "gender": "",
+      "id": 31
+    },
+    {
+      "firstName": "343",
+      "lastName": "343",
+      "username": "343",
+      "email": "343",
+      "password": "343",
+      "confirmPassword": "343",
+      "gender": "",
+      "id": 32
+    },
+    {
+      "username": "222",
+      "email": "222",
+      "dob": "",
+      "password": "222",
+      "confirmPassword": "222",
+      "date": "2024-01-17",
+      "id": 33
+    },
+    {
+      "username": "ddd",
+      "email": "sss",
+      "dob": "",
+      "password": "ddd",
+      "confirmPassword": "ddd",
+      "date": "2024-02-05",
+      "id": 34
+    }
+  ]
+}

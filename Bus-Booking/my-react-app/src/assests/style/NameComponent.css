@@ -1,0 +1,21 @@
+.name-container {
+    display: flex;
+    align-items: center; /* Center vertically */
+    color: whitesmoke;
+    height: 45px;
+    padding-left: 10px;
+    font-size: 17px;
+    background-color: teal;
+  }
+  
+  .navigation-list {
+    margin-left: auto; /* Push the list to the right */
+    padding: 10px;
+  }
+  
+  ol, li {
+    display: inline;
+    padding-right: 10px;
+    margin: 0; /* Remove default margin for the list */
+  }
+  

@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* Prevent horizontal scrollbar due to parallax effect */
+}
+
+.background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: url('background-image.jpg') center/cover no-repeat;
+  z-index: -1; /* Place the background behind other elements */
+}
+
+.content {
+  position: relative;
+  z-index: 1; /* Place the content above the background */
+  text-align: center;
+  padding: 100px;
+  color: #fff;
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeIn 1s ease-out forwards;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: #fff;
+  background-color: #007bff;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

@@ -1,0 +1,90 @@
+
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.box {
+  width: 100vw;
+  height: 100vh;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 5%;
+  padding-right: 5%;
+  height: 70px;
+}
+
+.logo {
+  font-size: 30px;
+  color: white;
+}
+
+.logo span {
+  color: orangered;
+  font-family: 'Lobster', cursive;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+
+nav ul li a:hover {
+  color: orangered;
+  transition: 0.5s;
+}
+
+nav button {
+  padding: 12px 30px;
+  border-radius: 30px;
+  font-weight: bold;
+  border: none;
+  background: orangered;
+  color: white;
+  font-size: 15px;
+}
+
+nav button:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.banner-text {
+  color: white;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  transition: 0.5s;
+}
+
+.banner-text h1 {
+  font-size: 50px;
+  text-transform: uppercase;
+}
+
+.banner-text span {
+  color: orangered;
+  font-family: 'Lobster', cursive;
+}
+
+.banner-text p {
+  font-size: 25px;
+}
